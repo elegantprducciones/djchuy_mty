@@ -42,7 +42,7 @@ header {
 
 main {
     padding: 150px 40px 40px; /* Espaciado superior para evitar que el main quede pegado al header */
-    background-color: #4b4a4a;
+    background-color: #f1f1f1a8;
 }
 
 .package {
@@ -51,7 +51,7 @@ main {
     border-radius: 8px;
     padding: 20px;
     transition: box-shadow 0.3s ease;
-    background-color: #16ff01;
+    background-color: #FFFFFF;
 }
 
 .package:hover {
@@ -168,5 +168,10 @@ footer {
 
 p {
     font-size: 1.2em; /* Tamaño de letra más grande */
-    color: rgb(22, 14, 14); /* Color gris claro */
+    color: #FFFFFF; /*color blanco*/
 }
+
+h2 {
+    color: #FFFFFF;     
+}
+
